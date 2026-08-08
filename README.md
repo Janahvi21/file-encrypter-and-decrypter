@@ -29,7 +29,7 @@ pip install cryptography
 
 1. **Clone the Repository**:
    ```bash
-   https://github.com/parassawal/file-encrypter-and-decrypter.git
+   git clone https://github.com/Janahvi21/file-encrypter-and-decrypter.git
    cd your-repository-name
    ```
 
